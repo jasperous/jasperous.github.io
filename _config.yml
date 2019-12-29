@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Jasper Junghyun Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Senior, Hanyang University, South Korea"
+  bio              : #""
   location         : "Seoul, South Korea"
   email            : "jasper.jh.kim@gmail.com"
   links:
@@ -127,7 +127,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jasperous"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/jaspereous"
