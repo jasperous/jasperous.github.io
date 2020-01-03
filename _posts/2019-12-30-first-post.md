@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Log"
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+vpn이란
+git 사용
+svn 사용
